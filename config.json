@@ -1,0 +1,26 @@
+{
+    "servers": [
+        { "addr": "217.62.12.214:27016", "comment": "Potato archive eu1"},
+        { "addr": "217.62.12.214:27017", "comment": "Potato archive eu2"},
+        { "addr": "108.3.159.210:27030", "comment": "Potato archive us1"},
+        { "addr": "108.3.159.210:27031", "comment": "Potato archive us2"},
+        { "addr": "108.3.159.210:27034", "comment": "Potato archive meme"},
+        { "addr": "108.3.159.210:27040", "comment": "Potato beta 1"},
+        { "addr": "108.3.159.210:27042", "comment": "Potato beta 2"},
+        { "addr": "testing.potato.tf:27019", "comment": "Potato testing 1"},
+        { "addr": "testing.potato.tf:27021", "comment": "Potato testing 2"},
+        { "addr": "testing.potato.tf:27025", "comment": "Potato testing 3"},
+        { "addr": "testing.potato.tf:27027", "comment": "Potato testing 4"},
+        { "addr": "testing.potato.tf:27023", "comment": "Potato testing juj?"},
+        { "addr": "frk-1.de.uncletopia.com:27015"},
+        { "addr": "frk-1.de.uncletopia.com:27025"},
+        { "addr": "frk-1.de.uncletopia.com:27035"},
+        { "addr": "frk-1.de.uncletopia.com:27045"},
+        { "addr": "frk-1.de.uncletopia.com:27055"},
+        { "addr": "frk-1.de.uncletopia.com:27065"},
+        { "addr": "lon-1.uk.uncletopia.com:27015"},
+        { "addr": "lon-1.uk.uncletopia.com:27025"},
+        { "addr": "lon-1.uk.uncletopia.com:27035"},
+        { "addr": "lon-1.uk.uncletopia.com:27045"}
+    ]
+}
